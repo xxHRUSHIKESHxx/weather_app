@@ -272,6 +272,7 @@ h1 {
   width: 90%;
   padding: 0 30px 10px 30px;
   font-family: "Oxygen", sans-serif;
+
 }
 
 div#txt {
@@ -426,6 +427,7 @@ div#txt {
   }
   .dmy {
     padding-top: 10px;
+    
   }
   div#txt {
     font-size: 30px;
@@ -540,6 +542,7 @@ div#txt {
     margin-bottom: 35px;
     text-align: center;
     width: 100%;
+    position: relative;
   }
   div#txt {
     font-size: 30px;
