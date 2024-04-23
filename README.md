@@ -12,5 +12,5 @@
 ## Setup
 
 ```
-npm i && npm start
+just do => "npm install"  and then  "npm start" with this the porject should work
 ```
